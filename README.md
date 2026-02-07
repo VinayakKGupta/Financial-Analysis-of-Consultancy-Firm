@@ -13,7 +13,7 @@ Cleaning raw data in Excel -> Importing into Azure SQL -> Staging -> Data Modell
 <img width="940" height="361" alt="image" src="https://github.com/user-attachments/assets/ace04180-f934-4718-a09a-e85a21af526e" />
 
 
-**Outcomes** 
+## **Outcomes** 
 
 <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/2d7ed8dc-7c7f-4c6c-946d-5d3eddc65697" />
 
