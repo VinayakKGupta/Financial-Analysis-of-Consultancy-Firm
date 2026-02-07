@@ -6,7 +6,7 @@ Analysed a financial dataset using Azure SQL and Power BI. Created SQL views to 
 
 Cleaning raw data in Excel -> Importing into Azure SQL -> Staging -> Data Modelling -> SQL views + procedures -> Power BI Visualisation
 
-# **Kindly check the Azure Financial Analysis folder for all the SQL Codes.** #
+### *Kindly check the Azure Financial Analysis folder for all the SQL Codes.* ###
 
 <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/0cbec327-7cec-490c-80d3-f2741ff13bb9" />
 
